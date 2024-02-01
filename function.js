@@ -1,3 +1,5 @@
+/[https://stanford.edu/~cpiech/karel/ide.html]
+// thats the link to the the game 
 /**
  * Welcome to the Stanford Karel IDE.
  * This is a free space for you to 
