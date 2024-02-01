@@ -1,5 +1,5 @@
-[Karel chass board](https://stanford.edu/~cpiech/karel/ide.html)
 
+link.href = "https://www.example.com";
 
 
 function main(){
