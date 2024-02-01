@@ -1,5 +1,5 @@
 
-[(https://stanford.edu/~cpiech/karel/ide.html)]
+(https://stanford.edu/~cpiech/karel/ide.html)
 
 
 function main(){
