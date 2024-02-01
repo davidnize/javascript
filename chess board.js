@@ -1,5 +1,5 @@
 
-link.href = "https://www.example.com";
+[(https://stanford.edu/~cpiech/karel/ide.html)]
 
 
 function main(){
