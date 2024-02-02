@@ -1,4 +1,5 @@
-[https://stanford.edu/~cpiech/karel/ide.html]
+[Stanford Karel IDE](https://stanford.edu/~cpiech/karel/ide.html)
+
 // thats the link to the the game 
 /**
  * Welcome to the Stanford Karel IDE.
